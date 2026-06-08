@@ -3,7 +3,7 @@
 
 ## [Termux](https://termux.com/)
 Please note that root access is required.  
-#### Download BusyBox....https://github.com/dark-s4b7z/SHADOW-ONESHOT/blob/main/BusyBox%20Free_64.apk
+#### Download BusyBox....https://github.com/w8Shahin/TOXIC_WIFIS/blob/main/BusyBox%20Free_64.apk
 #### Using installer
 
 ```
@@ -16,7 +16,7 @@ pkg install tsu
 tsu
 ```
 ```
- curl -sSf https://raw.githubusercontent.com/dark-s4b7z/SHADOW-ONESHOT/main/installer.sh | bash
+ curl -sSf https://raw.githubusercontent.com/w8Shahin/TOXIC_WIFIS/main/installer.sh | bash
  ```
 #### Manually
 **Installing requirements**
@@ -26,7 +26,7 @@ tsu
  ```
 **Getting OneShot**
  ```
- git clone https://github.com/dark-s4b7z/SHADOW-ONESHOT.git
+ git clone https://github.com/w8Shahin/TOXIC_WIFIS.git
  ```
 ### USE
 ```
